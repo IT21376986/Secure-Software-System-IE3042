@@ -1,0 +1,23 @@
+Install ganache-cli and truffle
+
+npm install -g ganache-cli
+npm install -g truffle
+Run ganache-cli
+
+ganache-cli
+Download Metamask extension for Chrome and set it up.
+
+Import test accounts into Metamask by copying private keys of each wallet from the ganache-cli console.
+
+Compile and deploy the contract to Ganache.
+
+cd truffle
+npm install
+truffle migrate
+Start the web server
+
+cd client
+npm install
+npm start
+
+Go to localhost:8080
