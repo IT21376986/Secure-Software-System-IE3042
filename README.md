@@ -35,3 +35,8 @@ Class Project [2024]
   ```
 
 - Go to `localhost:8080`
+
+- Student Reg Numbers and the Student Names
+Student ID	Student Name
+IT21376986	Sisirakara W.H.D
+IT21381072	De Silva N.B.S
