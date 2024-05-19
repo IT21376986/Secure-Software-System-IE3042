@@ -3,7 +3,7 @@ Class Project [2024]
 
 - First, clone the repository
   ```
-https://github.com/IT21376986/Secure-Software-System-IE3042.git
+  https://github.com/IT21376986/Secure-Software-System-IE3042.git
   ```
 
 - Install `ganache` and `truffle`
