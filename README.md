@@ -1,6 +1,12 @@
 # Secure-Software-System-IE3042
 Class Project [2024]
+  - Student Reg Numbers and the Student Names
+  ```
+    IT21376986 - Sisirakara W.H.D
+    IT21381072 - De Silva N.B.S
+```
 
+#Instructions to setup, run, and test MVP
 - First, clone the repository
   ```
   https://github.com/IT21376986/Secure-Software-System-IE3042.git
@@ -37,7 +43,4 @@ Class Project [2024]
 - Go to `localhost:8080`
 
 
-- Student Reg Numbers and the Student Names
-  ```
-    IT21376986 - Sisirakara W.H.D
-    IT21381072 - De Silva N.B.S
+
